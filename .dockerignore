@@ -1,0 +1,19 @@
+# 빌드 산출물
+/build
+/bin
+
+# IDE 설정
+*.iml
+.idea/
+.vscode/
+
+# OS/환경
+.DS_Store
+.env
+
+# Git
+.git
+.gitignore
+
+# Gradle 캐시
+.gradle
